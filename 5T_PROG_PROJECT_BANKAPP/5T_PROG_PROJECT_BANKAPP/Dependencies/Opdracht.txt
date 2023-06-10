@@ -1,0 +1,14 @@
+﻿The goal of this basic project is to construct a Windows program that acts as a virtual ATM. The application should include the following features, at the very least, to be like an ATM:
+
+Input verification, such as for an ATM card (a debit/credit card number).
+Requesting a PIN from the user to confirm their identity.
+In case of negative verification, canceling the user's account. 
+In case of positive verification, providing several options such as cash availability and the previous five transactions, or cash withdrawal. 
+Allowing a single withdrawal of $1,000 with a daily withdrawal cap of ten transactions.
+
+
+Maak een aanmeldsysteem met gebruikersnaam / wachtwoord ipv bankpas
+Maak een pincode verificatie (als deze fout is geef een error en verban deze persoon)
+als deze juist is laat dan de hoeveelheid geld zien, de mogelijkheid om geld af te halen of er bij op te zetten en de vorige 5 transacties
+
+Zet limieten op het geld afhalen en een dagelijks limiet van 10 transacties 
