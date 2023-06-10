@@ -1,0 +1,25 @@
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\bin\Debug\5T_PROG_PROJECT_BANKAPP.exe.config
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\bin\Debug\5T_PROG_PROJECT_BANKAPP.exe
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\bin\Debug\5T_PROG_PROJECT_BANKAPP.pdb
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.AssemblyReference.cache
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.AanmeldForm.resources
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.Properties.Resources.resources
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.GenerateResource.cache
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.CoreCompileInputs.cache
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.exe
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.pdb
+C:\Users\TimMeeus\OneDrive - Scholengroep Fluxus\Informatica\Programeren\Oefeningen\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.MainScreen.resources
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\bin\Debug\5T_PROG_PROJECT_BANKAPP.exe.config
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\bin\Debug\5T_PROG_PROJECT_BANKAPP.exe
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\bin\Debug\5T_PROG_PROJECT_BANKAPP.pdb
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.AssemblyReference.cache
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.AanmeldForm.resources
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.MainScreen.resources
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.Properties.Resources.resources
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.GenerateResource.cache
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.csproj.CoreCompileInputs.cache
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.exe
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.pdb
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.Register.resources
