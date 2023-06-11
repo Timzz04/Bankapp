@@ -23,3 +23,4 @@ C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJEC
 C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.exe
 C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\5T_PROG_PROJECT_BANKAPP.pdb
 C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.Register.resources
+C:\Users\bigti\Documents\Projects\Bankapp\5T_PROG_PROJECT_BANKAPP\5T_PROG_PROJECT_BANKAPP\obj\Debug\_5T_PROG_PROJECT_BANKAPP.Withdraw.resources

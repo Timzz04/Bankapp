@@ -19,8 +19,9 @@ namespace _5T_PROG_PROJECT_BANKAPP
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn(int nLeftRect, int nTopRect, int nRightRect, int nBottomRect, int nWidthEllipse, int nHeightEllipse);
         //Declaraties
-        string filepath = "users.txt";
+        private string filepath = "users.txt";
         private string username;
+        private string password;
         private double balance;
 
         public string Username
@@ -44,31 +45,28 @@ namespace _5T_PROG_PROJECT_BANKAPP
         }
 
 
-
-
-
-
-
         public MainScreen()
         {
             InitializeComponent();
             //Hier zeg ik dat wanner de form laad het ronde edges moet heben
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 36, 36));
-   
-           
+
+
         }
 
+        
 
-
-
-
-
-
-
-        private void BtnDebugSettings_Click(object sender, EventArgs e)
+        public void NewBalance(double newBalance)
         {
-          
+            balance = newBalance;
+            LblBalance.Text=balance.ToString();
+            
+
+
         }
+
+
+   
 
         private void Btnexit_Click(object sender, EventArgs e)
         {
@@ -77,12 +75,19 @@ namespace _5T_PROG_PROJECT_BANKAPP
 
         private void BtnMinimize_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void MainScreen_Load(object sender, EventArgs e)
         {
-            
+
+
+        }
+
+        private void BtnWithdraw_Click(object sender, EventArgs e)
+        {
+          Withdraw withdraw = new Withdraw();
+            withdraw.ShowDialog();   
 
         }
     }
