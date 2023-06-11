@@ -34,26 +34,18 @@ namespace _5T_PROG_PROJECT_BANKAPP
 
             if (isPasswordValid)
             {
-                if (hoeveelheid > 0 && hoeveelheid <= balance)
+                if (hoeveelheid > 0)
                 {
-                    // Deduct the amount from the balance
+                    // Add the amount to the balance
                     balance += hoeveelheid;
 
-
-                    //Ik roep de Mainscreen op 
-                    MainScreen mainScreen = Application.OpenForms["MainScreen"] as MainScreen;
-
-
-                    //Ik Update de hoeveelheid 
-                    mainScreen?.Invoke(new Action(() => mainScreen.NewBalance(balance)));
-
                     // Update the balance on the main form or wherever necessary
+                    MainScreen mainScreen = Application.OpenForms["MainScreen"] as MainScreen;
+                    mainScreen?.Invoke(new Action(() => mainScreen.NewBalance(balance)));
 
                     MessageBox.Show($"Deposit successful. Amount deposited: {hoeveelheid}");
 
-
-
-                    // Close the withdrawal form
+                    // Close the deposit form
                     this.Close();
                 }
                 else

@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace _5T_PROG_PROJECT_BANKAPP
 {
     public partial class MainScreen : Form
@@ -58,9 +59,10 @@ namespace _5T_PROG_PROJECT_BANKAPP
 
         public void NewBalance(double newBalance)
         {
+
             balance = newBalance;
-            LblBalance.Text=balance.ToString();
-            
+            LblBalance.Text = balance.ToString();
+
 
 
         }
@@ -86,8 +88,8 @@ namespace _5T_PROG_PROJECT_BANKAPP
 
         private void BtnWithdraw_Click(object sender, EventArgs e)
         {
-          Withdraw withdraw = new Withdraw();
-            withdraw.ShowDialog();   
+            Withdraw withdraw = new Withdraw(balance);
+            withdraw.ShowDialog();
 
         }
 
@@ -95,6 +97,17 @@ namespace _5T_PROG_PROJECT_BANKAPP
         {
             Deposit deposit=new Deposit();
             deposit.ShowDialog();
+
+        }
+
+        private void BtnLogout_Click(object sender, EventArgs e)
+        {
+            AanmeldForm aanmeldForm = new AanmeldForm();
+            Username = string.Empty;
+            password = string.Empty;
+            Balance = 0.0;
+            aanmeldForm.Show();
+            Hide();
 
         }
     }

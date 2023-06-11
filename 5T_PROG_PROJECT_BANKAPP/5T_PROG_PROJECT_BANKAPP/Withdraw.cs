@@ -10,10 +10,11 @@ namespace _5T_PROG_PROJECT_BANKAPP
         string filepath = "users.txt";
         string password;
         double hoeveelheid;
-        double balance;
-        public Withdraw()
+        private double balance;
+        public Withdraw(double currentBalance)
         {
             InitializeComponent();
+            balance = currentBalance;
         }
 
         private void BtnWithdraw_Click(object sender, EventArgs e)
@@ -29,20 +30,15 @@ namespace _5T_PROG_PROJECT_BANKAPP
                 {
                     // Deduct the amount from the balance
                     balance -= hoeveelheid;
-                    
-
-                    //Ik roep de Mainscreen op 
-                    MainScreen mainScreen = Application.OpenForms["MainScreen"] as MainScreen;
-
-
-                    //Ik Update de hoeveelheid 
-                    mainScreen?.Invoke(new Action(() => mainScreen.NewBalance(balance)));
 
                     // Update the balance on the main form or wherever necessary
+                    MainScreen mainScreen = Application.OpenForms["MainScreen"] as MainScreen;
+                    mainScreen?.Invoke(new Action(() => mainScreen.NewBalance(balance)));
 
                     MessageBox.Show($"Withdrawal successful. Amount withdrawn: {hoeveelheid}");
 
-                    
+                    // Update the balance in the users.txt file
+                    TextUpdater(mainScreen.Username, password, balance);
 
                     // Close the withdrawal form
                     this.Close();
@@ -56,8 +52,9 @@ namespace _5T_PROG_PROJECT_BANKAPP
             {
                 MessageBox.Show("Invalid password.");
             }
-        }
 
+
+        }
         public void TextUpdater(string username, string password, double newBalance)
         {
             string[] users = File.ReadAllLines(filepath);
