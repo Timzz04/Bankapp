@@ -89,11 +89,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(112, 200);
+            this.label3.Location = new System.Drawing.Point(109, 200);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(46, 13);
+            this.label3.Size = new System.Drawing.Size(103, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Balance";
+            this.label3.Text = "Balance Of the User";
             // 
             // Register
             // 

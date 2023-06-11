@@ -99,5 +99,15 @@ namespace _5T_PROG_PROJECT_BANKAPP.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_computer_icons_logout_angle_text_black_thumbnail {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-computer-icons-logout-angle-text-black-thumbnail", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

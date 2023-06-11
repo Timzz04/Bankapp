@@ -90,5 +90,12 @@ namespace _5T_PROG_PROJECT_BANKAPP
             withdraw.ShowDialog();   
 
         }
+
+        private void BtnDeposit_Click(object sender, EventArgs e)
+        {
+            Deposit deposit=new Deposit();
+            deposit.ShowDialog();
+
+        }
     }
 }
